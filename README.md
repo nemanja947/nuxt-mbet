@@ -1,12 +1,13 @@
 # nuxt-mbet
 
-create .env in root dir
+## create .env in root dir
 
+```bash
 APP_SUBNAME=mozzart_sr
 APP_BASE_URL=http://localhost:3000/api
 PUBLIC_VARIABLE=https://my-cool-website.com
 PRIVATE_TOKEN=1234qwer
-
+```
 ## Build Setup
 
 ```bash
