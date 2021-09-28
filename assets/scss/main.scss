@@ -1,0 +1,13 @@
+@import 'theme-colors';
+
+html, body {
+  height: 100%;
+}
+
+.container {
+  max-width: 1040px;
+}
+
+.app-background {
+  background-color: var(--app-background-color);
+}
